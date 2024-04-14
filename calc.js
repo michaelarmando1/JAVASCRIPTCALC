@@ -16,6 +16,8 @@ console.log(subtract(10,15));
   function multiply(a, b) {
     return a * b;
   }
+
+console.log(multiply(31,40));
   
   // Division
   function divide(a, b) {
