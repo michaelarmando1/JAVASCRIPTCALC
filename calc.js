@@ -35,3 +35,10 @@ function squareRoot(number) {
   }
 
   console.log(squareRoot(25));
+
+// Absolute Value
+function absoluteValue(number) {
+    return Math.abs(number);
+}
+
+console.log(absoluteValue(50));
