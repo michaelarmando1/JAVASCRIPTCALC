@@ -28,3 +28,10 @@ console.log(multiply(31,40));
   }
 
   console.log(divide(5,0));
+
+  // Square Root
+function squareRoot(number) {
+    return Math.sqrt(number);
+  }
+
+  console.log(squareRoot(25));
