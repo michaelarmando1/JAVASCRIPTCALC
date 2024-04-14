@@ -8,7 +8,9 @@ console.log(add(5,4))
   // Subtraction
   function subtract(a, b) {
     return a - b;
-  }
+}
+
+console.log(subtract(10,15));
   
   // Multiplication
   function multiply(a, b) {
