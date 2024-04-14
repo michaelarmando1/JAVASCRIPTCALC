@@ -26,3 +26,5 @@ console.log(multiply(31,40));
     }
     return a / b;
   }
+
+  console.log(divide(5,0));
